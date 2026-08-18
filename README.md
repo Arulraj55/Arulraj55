@@ -83,7 +83,7 @@ A full-stack shopping platform built for **10,000+ products**, combining modern 
 
 ---
 
-### 📚 Syllabus2Project
+### 📚 Syllabus Topics To Project Ideas
 
 An **AI-powered project idea generator** that transforms a student's syllabus into personalized and practical software project opportunities.
 
@@ -123,7 +123,7 @@ An intelligent **business analytics platform** that converts raw Excel data into
 
 ---
 
-### 💻 Programming Skill Enhancement System — PSES
+### 💻 Programming Skill Enhancement System
 
 A personalized programming-learning platform that guides users through a complete learning flow and uses machine learning to predict their understanding level.
 
