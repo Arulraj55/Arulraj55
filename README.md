@@ -58,12 +58,12 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[SmartCart – Clothes & Gifts](https://smartcart-clothes-gifts-frontend.onrender.com/)** | Full-stack AI-powered e-commerce platform with personalized recommendations, dynamic search ranking, and real-time behavior analytics | React.js, Node.js, Express.js, MongoDB, Stripe |
-| **[DeptOps AI](https://deptops-ai.onrender.com/)** | Agentic AI assistant for academic department management with a Knowledge Agent (RAG), Analytics Agent, and Website Testing Agent, routed by a Coordinator Agent | Python, LangChain, LangGraph, PostgreSQL, ChromaDB |
+| **[SmartCart – Clothes & Gifts]** | Full-stack AI-powered e-commerce platform with personalized recommendations, dynamic search ranking, and real-time behavior analytics | React.js, Node.js, Express.js, MongoDB, Stripe |
+| **[DeptOps AI]** | Agentic AI assistant for academic department management with a Knowledge Agent (RAG), Analytics Agent, and Website Testing Agent, routed by a Coordinator Agent | Python, LangChain, LangGraph, PostgreSQL, ChromaDB |
 | **SmartBI** | Business analytics platform that auto-detects domains from Excel uploads, cleans data, and generates Power BI-ready SQL views | Python, Flask, PostgreSQL, Power BI, Chart.js |
 | **IPL Auction 2026** | Real-time multiplayer IPL auction simulator with WebSocket sync, room codes, and host controls for 2–10 players | Python, aiohttp, WebSockets, JavaScript |
 | **PSES – Programming Skill Enhancement System** | Learning app that evaluates concept quizzes and predicts skill level via an ML microservice, recommending targeted revision | React, Node.js, MongoDB, Python, FastAPI, Scikit-learn |
-| **[Green Link Commerce](https://glc-1.onrender.com/)** | Multi-role e-commerce platform connecting farmers, shop owners, and customers with role-based auth and Razorpay payments | Node.js, Express.js, MongoDB, JavaScript |
+| **[Green Link Commerce]** | Multi-role e-commerce platform connecting farmers, shop owners, and customers with role-based auth and Razorpay payments | Node.js, Express.js, MongoDB, JavaScript |
 | **Animated History Hub** | Interactive history learning platform with animated chapters and AI-powered quizzes aligned to CBSE/Samacheer Kalvi syllabi | Node.js, Express.js, PostgreSQL |
 | **Syllabus2Project** | Converts an uploaded syllabus into personalized project ideas with difficulty analysis and exportable PDF briefs | Python, Flask, SQLite, ReportLab |
 
