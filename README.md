@@ -226,29 +226,10 @@ The platform focuses on helping students understand historical concepts by conne
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Scout Rajyapuraskar Award** — State-level recognition for leadership and community service, including 27 proficiency badges.
-- 🏆 **KPR Hackathon 2025** — Reached the final round.
-- ⚙️ Completed an intensive **25-day DevOps training program**.
-
----
-
 ## 📄 Publications
 
 - **Green Link Commerce** — International Journal of Research Publication and Reviews (IJRPR), 2025.
 - **Integrated Athlete Pathway Interface** — International Journal of Scientific Research in Engineering & Management (IJSREM), 2025.
-
----
-
-## 🎓 Education
-
-**Sri Shakthi Institute of Engineering and Technology**  
-Bachelor of Engineering in Computer Science and Engineering  
-`2023 – 2027` · **CGPA: 7.54**
-
-**Star Matriculation Higher Secondary School**  
-Higher Secondary Certificate · **84%**
 
 ---
 
