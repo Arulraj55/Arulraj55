@@ -1,79 +1,275 @@
-<h1 align="center">Hi there, I'm Arulraj Jebasingh 👋</h1>
-<h3 align="center">Full Stack Developer | MERN & Python | AI/ML Enthusiast</h3>
+# Hi there, I'm Arulraj Jebasingh 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arulraj-jebasingh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arulrajjebasingh06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-vymw.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+### Full Stack Developer | AI/ML Enthusiast | Problem Solver
 
----
+I'm a **Full Stack Developer** passionate about building end-to-end applications across web development, AI/ML, data analytics, and real-time systems. I enjoy turning real-world problems into practical, scalable software solutions.
 
-### 🚀 About Me
-
-- 🎓 B.E. in Computer Science and Engineering @ Sri Shakthi Institute of Engineering and Technology (2023 – 2027)
-- 💻 I build end-to-end, production-style applications across frontend, backend, and database layers
-- 🤖 Currently exploring multi-agent AI systems with LangChain & LangGraph
-- 🏆 Competitive programmer, always sharpening my Data Structures & Algorithms
-- 📝 Published research on e-commerce systems and athlete-pathway platforms
-- 📫 Reach me at **arulrajjebasingh06@gmail.com**
+My experience spans **React.js, Node.js, Express.js, Python, FastAPI, Flask, MongoDB, PostgreSQL, LangChain, LangGraph, and Machine Learning**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### 🌱 Green Link Commerce
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+A full-stack agricultural commerce platform connecting **farmers, shop owners, and customers**, designed to reduce unnecessary intermediaries and provide a complete digital commerce workflow.
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Key Features**
+- 👨‍🌾 Farmer, Shop Owner, and Customer roles
+- 🔐 Role-based authentication
+- 📦 Product and catalog management
+- 🛒 Complete commerce workflow
+- 🔌 RESTful APIs
+- 💳 Secure online payment integration
+- 🗄️ Flexible MongoDB data modeling
 
-**Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Tech Stack**
 
-**AI/ML & Tools**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+`HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `Razorpay`
+
+📄 **Publication:** *Green Link Commerce* — International Journal of Research Publication and Reviews (IJRPR), 2025.
 
 ---
 
-### 🌟 Featured Projects
+### 🤖 DeptOps AI
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **SmartCart – Clothes & Gifts** | Full-stack AI-powered e-commerce platform with personalized recommendations, dynamic search ranking, and real-time behavior analytics | React.js, Node.js, Express.js, MongoDB, Stripe |
-| **DeptOps AI** | Agentic AI assistant for academic department management with a Knowledge Agent (RAG), Analytics Agent, and Website Testing Agent, routed by a Coordinator Agent | Python, LangChain, LangGraph, PostgreSQL, ChromaDB |
-| **SmartBI** | Business analytics platform that auto-detects domains from Excel uploads, cleans data, and generates Power BI-ready SQL views | Python, Flask, PostgreSQL, Power BI, Chart.js |
-| **IPL Auction 2026** | Real-time multiplayer IPL auction simulator with WebSocket sync, room codes, and host controls for 2–10 players | Python, aiohttp, WebSockets, JavaScript |
-| **PSES – Programming Skill Enhancement System** | Learning app that evaluates concept quizzes and predicts skill level via an ML microservice, recommending targeted revision | React, Node.js, MongoDB, Python, FastAPI, Scikit-learn |
-| **Green Link Commerce** | Multi-role e-commerce platform connecting farmers, shop owners, and customers with role-based auth and Razorpay payments | Node.js, Express.js, MongoDB, JavaScript |
-| **Animated History Hub** | Interactive history learning platform with animated chapters and AI-powered quizzes aligned to CBSE/Samacheer Kalvi syllabi | Node.js, Express.js, PostgreSQL |
-| **Syllabus2Project** | Converts an uploaded syllabus into personalized project ideas with difficulty analysis and exportable PDF briefs | Python, Flask, SQLite, ReportLab |
+An **Agentic AI Assistant for Academic Department Management**, built to automate academic operations, analytics, document-based knowledge retrieval, and website monitoring.
+
+**Specialized Agents**
+
+| Agent | Purpose |
+|---|---|
+| 📊 Analytics Agent | Analyzes and compares student performance and placement data |
+| 📚 Knowledge Agent | Answers questions from institutional PDFs and DOCX documents |
+| 🌐 Website Testing Agent | Detects broken links and checks website availability |
+| 🧠 Coordinator Agent | Routes user queries to the appropriate specialist agent |
+
+**Key Features**
+- Multi-agent architecture
+- RAG-based document question answering
+- Automated Excel analytics
+- Performance visualization
+- Website health monitoring
+- Intelligent query routing
+- PostgreSQL-based structured data storage
+
+**Tech Stack**
+
+`Python` `FastAPI` `LangChain` `LangGraph` `OpenRouter` `Streamlit` `PostgreSQL` `ChromaDB`
+
+
 
 ---
 
-### 📝 Publications
+### 🛒 SmartCart — AI-Powered E-Commerce
 
-- *Green Link Commerce* — International Journal of Research Publication and Reviews (IJRPR), 2025
-- *Integrated Athlete Pathway Interface* — International Journal of Scientific Research in Engineering & Management (IJSREM), 2025
+A full-stack shopping platform built for **10,000+ products**, combining modern e-commerce functionality with lightweight machine learning for personalized shopping experiences.
+
+**Key Features**
+- 🛍️ Large-scale product catalog
+- 🔐 JWT-based authentication
+- ❤️ Wishlist management
+- 📦 Order management
+- 💳 Secure payment integration
+- 🤖 ML-based product recommendations
+- 📈 Personalized suggestions based on user behavior
+- 🔎 Intelligent product discovery
+
+**Tech Stack**
+
+`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Razorpay` `Machine Learning`
+
+
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's build something great! 🚀</i></p>
+### 📚 Syllabus2Project
+
+An **AI-powered project idea generator** that transforms a student's syllabus into personalized and practical software project opportunities.
+
+**Key Features**
+- 📄 Upload and analyze syllabus files
+- 🧠 Extract syllabus topics automatically
+- 📊 Analyze topic difficulty
+- 💡 Generate personalized project ideas
+- 🛠️ Recommend suitable technologies
+- 🌍 Suggest real-world applications
+- 💾 Save project ideas
+- 📑 Export detailed project briefs as PDFs
+
+**Tech Stack**
+
+`Python` `Flask` `SQLite` `HTML5` `CSS3` `JavaScript` `ReportLab`
+
+---
+
+### 📊 SmartBI
+
+An intelligent **business analytics platform** that converts raw Excel data into structured, meaningful business insights.
+
+**Key Features**
+- 📤 Excel data upload
+- 🔍 Automatic business-domain detection
+- ✅ Data validation and cleaning
+- 📈 Automated business analytics
+- 🤖 AI-assisted insights
+- 🗄️ Power BI-ready SQL views
+- 📊 Interactive data visualization
+- 🔄 Structured reporting pipeline
+
+**Tech Stack**
+
+`Python` `Flask` `Gunicorn` `PostgreSQL` `OpenRouter` `Power BI` `Chart.js` `HTML` `CSS` `JavaScript`
+
+---
+
+### 💻 Programming Skill Enhancement System — PSES
+
+A personalized programming-learning platform that guides users through a complete learning flow and uses machine learning to predict their understanding level.
+
+**Learning Flow**
+
+```text
+Choose Topic
+     ↓
+Select Programming Language
+     ↓
+Watch Learning Video
+     ↓
+Complete 10-Question Quiz
+     ↓
+ML-Based Understanding Prediction
+     ↓
+Personalized Revision / Rewatch
+```
+
+**Key Features**
+- 🎯 Topic and programming language selection
+- ▶️ YouTube video discovery
+- 📝 Automatic quiz generation
+- 📊 Quiz evaluation
+- 🤖 ML-based learner-level prediction
+- 📚 Personalized revision recommendations
+- 👤 User progress tracking
+- ⚡ Server-side caching
+
+**Tech Stack**
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `Firebase` `JWT` `Python` `FastAPI` `Scikit-learn`
+
+---
+
+### 🏏 IPL Auction 2026
+
+A **real-time multiplayer IPL Auction simulator** where 2–10 players can join a shared room and compete in a dynamic bidding experience.
+
+**Key Features**
+- 👥 Multiplayer rooms for 2–10 players
+- 🔑 Room-code based joining system
+- ⚡ Real-time synchronization with WebSockets
+- 🎯 Live bidding system
+- 👑 Host controls
+- ⏯️ Start, pause, and resume auction
+- 📋 Upcoming player queue
+- 🏏 Team squad tracking
+- 📡 Live bid updates
+- 👤 200+ IPL players
+
+**Tech Stack**
+
+`HTML5` `CSS3` `JavaScript` `Python` `aiohttp` `WebSockets`
+
+---
+
+### 📜 Animated History Hub
+
+An interactive learning platform designed to make **history education more engaging through animations, videos, timelines, and AI-powered quizzes**.
+
+The platform focuses on helping students understand historical concepts by connecting **causes, effects, events, movements, and timelines**, with content aimed particularly at CBSE and Samacheer Kalvi learners.
+
+**Key Features**
+- 📖 Animated history chapters
+- 🎥 Educational videos
+- 🧠 AI-powered quizzes
+- 🕒 Interactive timelines
+- 🔗 Cause-and-effect learning
+- 🚀 Topic boosters for important events and movements
+
+**Tech Stack**
+
+`Node.js` `Express.js` `PostgreSQL` `HTML5` `CSS3`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`JavaScript` `Python` `SQL`
+
+### Frontend
+`React.js` `HTML5` `CSS3` `Tailwind CSS` `Vite` `Chart.js`
+
+### Backend
+`Node.js` `Express.js` `FastAPI` `Flask`
+
+### Databases
+`MongoDB` `Mongoose` `PostgreSQL` `SQLite` `ChromaDB`
+
+### AI / ML
+`LangChain` `LangGraph` `OpenRouter` `Scikit-learn` `RAG` `Machine Learning`
+
+### Tools & Platforms
+`Git` `GitHub` `VS Code` `Docker` `AWS` `Streamlit` `Power BI` `Firebase`
+
+### Core Concepts
+`REST APIs` `JWT Authentication` `RBAC` `CRUD` `Database Design` `Data Structures & Algorithms` `WebSockets`
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Scout Rajyapuraskar Award** — State-level recognition for leadership and community service, including 27 proficiency badges.
+- 🏆 **KPR Hackathon 2025** — Reached the final round.
+- ⚙️ Completed an intensive **25-day DevOps training program**.
+
+---
+
+## 📄 Publications
+
+- **Green Link Commerce** — International Journal of Research Publication and Reviews (IJRPR), 2025.
+- **Integrated Athlete Pathway Interface** — International Journal of Scientific Research in Engineering & Management (IJSREM), 2025.
+
+---
+
+## 🎓 Education
+
+**Sri Shakthi Institute of Engineering and Technology**  
+Bachelor of Engineering in Computer Science and Engineering  
+`2023 – 2027` · **CGPA: 7.54**
+
+**Star Matriculation Higher Secondary School**  
+Higher Secondary Certificate · **84%**
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** arulrajjebasingh06@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/arulraj-jebasingh/
+
+---
+
+## 💡 What I Love Building
+
+```text
+AI Agents        ████████████████████
+Full Stack Apps  ████████████████████
+AI/ML Systems    ██████████████████
+Real-Time Apps   ████████████████
+Data Analytics   ████████████████
+Problem Solving  ████████████████████
+```
+
+> **Build. Learn. Experiment. Ship. 🚀**
+
+⭐ If you find my projects interesting, feel free to explore my repositories and leave a star!
